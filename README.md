@@ -1,2 +1,2 @@
-# gintelligence
+# gitelligence
 For who still reads code
